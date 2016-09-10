@@ -1,3 +1,3 @@
-/home/slowbro/Myprograming/OpenCV/2/CMakeFiles/edit_cache.dir
-/home/slowbro/Myprograming/OpenCV/2/CMakeFiles/rebuild_cache.dir
-/home/slowbro/Myprograming/OpenCV/2/CMakeFiles/2.dir
+/home/slowbro/Myprograming/GitHub/MyOpenCVProject/CMakeFiles/edit_cache.dir
+/home/slowbro/Myprograming/GitHub/MyOpenCVProject/CMakeFiles/rebuild_cache.dir
+/home/slowbro/Myprograming/GitHub/MyOpenCVProject/CMakeFiles/2.dir
